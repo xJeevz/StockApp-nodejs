@@ -1,8 +1,9 @@
-# TweetApp-nodejs
-Twitter App made in NodeJs
+# StockApp-nodejs
+Stock Trader App made in NodeJs
 so install npm 
 
-## Node.js modules used in this
+## Node.js modules used in this (install them)
+    "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
