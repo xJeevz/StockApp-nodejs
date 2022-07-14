@@ -13,7 +13,7 @@ so install npm
     "nodemon": "^2.0.19"
 
 # BEFORE RUNNING
-Make sure to have a MongoDB driver code connected to it and a JWT Secret key. In order to connect it, create a file in the folder called .env and write these lines but replace the after = with your own key/code.  
+Make sure to have a MongoDB driver code connected to it and a JWT Secret key. In order to connect it, create a file in the folder called .env and write these lines but replace after = with your own key/code.  
        DB_CONNECTION=mongodb+srv://username:password@cluster0...  
        JWT_SECRET=sdjkfh8923yhjdks...  
 
